@@ -83,6 +83,27 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Conhecendo o NestJS",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/O96pABeSiNE",
+      "imagem": "https://th.bing.com/th/id/OIP.inCgBnA2A9qO-WCwrTSexQHaD1?pid=ImgDet&rs=1",
+      "id": 13
+    },
+    {
+      "titulo": "Conhecendo o NestJS",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/shorts/-raapBsgf8w",
+      "imagem": "rwe",
+      "id": 14
+    },
+    {
+      "titulo": "qwer",
+      "descricao": "3 mil visualizações",
+      "url": "werwr",
+      "imagem": "qwer",
+      "id": 15
     }
   ]
 }
